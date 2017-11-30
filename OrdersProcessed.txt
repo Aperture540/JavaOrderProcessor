@@ -1,0 +1,48 @@
+Order ID: 1
+Part Num: 1
+Price: 1.00
+Quantity: 1
+Tax: 0.02
+Shipping: 0.05
+Total: 1.07
+
+Order ID: 9872
+Part Num: MFT_903
+Price: 4.99
+Quantity: 1
+Tax: 0.0998
+Shipping: 0.2495
+Total: 5.3393
+
+Order ID: 2342
+Part Num: 1900
+Price: 3.50
+Quantity: 4
+Tax: 0.28
+Shipping: 0.70
+Total: 14.98
+
+Order ID: 9122
+Part Num: ACT_MIT
+Price: 57.95
+Quantity: 2
+Tax: 2.318
+Shipping: 5.795
+Total: 124.013
+
+Order ID: ORD123
+Part Num: 112235
+Price: 0.99
+Quantity: 25
+Tax: 0.495
+Shipping: 1.2375
+Total: 26.4825
+
+Order ID: 0982
+Part Num: FRM_102_221
+Price: 99.99
+Quantity: 1
+Tax: 1.9998
+Shipping: 4.9995
+Total: 106.9893
+

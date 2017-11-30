@@ -5,17 +5,14 @@
  */
 package javaorderprocessor;
 
-/**
- *
- * @author agendron
- */
 public class JavaOrderProcessor {
 
-    /**
-     * @param args the command line arguments
-     */
     public static void main(String[] args) {
-        // TODO code application logic here
+        
+        String inputFile = "Orders.txt";
+        String outputFile = "OrdersProcessed.txt";
+        
+        OrderProcessor orders = new OrderProcessor();
+        orders.OpenFile(inputFile, outputFile);
     }
-    
 }
